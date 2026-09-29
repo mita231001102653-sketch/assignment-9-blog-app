@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Building Modern Web Applications with React & Vite",
+      "author": "Mita Kar",
+      "date": "2026-08-20",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80",
+      "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "content": "React has revolutionized frontend engineering by advocating for a component-driven architecture. Coupled with modern build engines like Vite, developers enjoy instantaneous Hot Module Replacement (HMR) and optimized production bundles. In this article, we explore advanced React patterns, state management strategies, and optimal project structures for scalable web applications."
+    },
+    {
+      "id": "2",
+      "title": "Understanding Rest APIs and State Management",
+      "author": "Alex Rivera",
+      "date": "2026-08-22",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "video": "",
+      "content": "REST APIs provide a standardized protocol for client-server communication using standard HTTP methods such as GET, POST, PUT, and DELETE. Paired with state management tools like Context API or Axios client instances, web applications seamlessly maintain synchronized state with backend databases."
+    }
+  ]
+}
